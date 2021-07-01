@@ -1,0 +1,4 @@
+#Thu Jul 01 16:12:39 CST 2021
+base.0=/Users/AmberFish/Workspace/2BigWebWorkspace/flutter/my_flutter/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

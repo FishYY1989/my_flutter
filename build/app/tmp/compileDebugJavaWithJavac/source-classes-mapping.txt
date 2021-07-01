@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/fish/my_flutter/my_flutter/BuildConfig.java
+ com.fish.my_flutter.my_flutter.BuildConfig
